@@ -42,4 +42,4 @@ const UseStateCounter = () => {
   );
 };
 
-export default UseStateCounter;
+export default UseStateCounter
